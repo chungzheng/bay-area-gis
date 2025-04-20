@@ -5,5 +5,5 @@ GIS maps of the San Francisco Bay Area
   - Land Surface Temperature
   - Accessible from [AppEEARS](https://appeears.earthdatacloud.nasa.gov/)
   
-- Maps made with [QGIS](https://qgis.org/)
-  
+- Maps made with [QGIS](https://qgis.org/)  
+(currently in progress)
